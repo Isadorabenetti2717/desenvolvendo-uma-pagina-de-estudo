@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'maquiagem',
+    'O que se passa nos cilios para aumentar?',
+    'rimel ou mascara de cilios'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'maquiagem',
+    'Qual o nome do lapis que passa na boca?',
+    'lapis de boca'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'história',
+    'que pais tem formato de uma bota?',
+    'itália'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Como se diz bom dia em Inglês?',
+    'bom dia em inglês é good morning'
 )
